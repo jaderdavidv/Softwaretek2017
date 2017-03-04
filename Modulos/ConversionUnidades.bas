@@ -1,6 +1,6 @@
 Attribute VB_Name = "ConversionUnidades"
 Option Compare Database
-
+'lol
 Public Function obtenerTasaConversionUnidades(medidaIni As Integer, medidaFin As Integer) As Double
 
 Dim tasa As Double
